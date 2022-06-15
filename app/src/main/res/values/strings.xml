@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">DotaHeroes</string>
+    <string name="name_hero">Name hero</string>
+    <string name="basic_character">Basic character</string>
+    <string name="agility">Agility</string>
+    <string name="strength">Strength</string>
+    <string name="intelligence">Intelligence</string>
+    <string name="move_speed">Move speed</string>
+    <string name="basic_health">Basic health</string>
+    <string name="basic_mana">Basic mana</string>
+</resources>
